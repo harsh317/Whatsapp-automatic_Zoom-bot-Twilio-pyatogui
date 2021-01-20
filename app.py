@@ -14,6 +14,7 @@ def start_thread(target):
 def fucti():
     
     subprocess.call('C:\\Users\\jainh\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe')
+    pyautogui.getWindowsWithTitle("Zoom")[0].maximize()
     clickjoin = pyautogui.locateCenterOnScreen('joinIMG.png', confidence = 0.4)
     pyautogui.moveTo(clickjoin)
     pyautogui.click()
