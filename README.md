@@ -9,6 +9,8 @@
 - ngrok http 5000
 - In twilio whatsapp sandbox Enter ngrok link and add sms path with it.Eg https://9567e17abc46.ngrok.io */sms* 
 - Ready to Go
+- open watsapp and chat
+- ask for joke or send mails or join zoom meetings by sending link
 
 ## Tasks 
 - handle exception when either link or meeting_id or meeting_password is not provided in whatsapp message
