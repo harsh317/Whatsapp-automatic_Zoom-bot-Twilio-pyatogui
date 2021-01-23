@@ -17,6 +17,9 @@
 - handle exception when if link not provided and join through meeting_id and password
 - handle if  meeting_id and password not provided and join through link
 - Add more features link *receiving* mail
+- Get thought of the day
+- Get news
+- Covid updates
 - Easy tasks :D
 
 
