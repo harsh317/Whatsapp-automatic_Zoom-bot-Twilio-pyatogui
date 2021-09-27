@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/66161239/134845837-24969047-19ae-4dba-
 - cd Whatsapp-automatic_Zoom-bot-Twilio-pyatogui
 - python3 app.py
 - ngrok http 5000
-- In twilio whatsapp sandbox Enter ngrok link and add sms path with it.Eg https://9567e17abc46.ngrok.io */sms* 
+- In twilio whatsapp sandbox Enter ngrok link and add sms path with it.Eg https://9567e17abc46.ngrok.io */bot* 
 - Ready to Go
 - Open watsapp and chat
 - Send zoom meeting link and let a bot do work for you
