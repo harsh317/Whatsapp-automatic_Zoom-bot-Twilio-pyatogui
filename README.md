@@ -1,8 +1,6 @@
 # Whatsapp-automatic_Zoom-bot-Twilio-pyatogui
 
-
-https://user-images.githubusercontent.com/66161239/134845837-24969047-19ae-4dba-8f4c-d10d21056271.mp4
-
+![1__D8WqXbJLuw5RXNTASdszw](https://user-images.githubusercontent.com/66161239/134846248-9bf7392e-d9a3-445f-82db-59c89f61dcfa.gif)
 
 ## Instructions- 
 - git clone https://github.com/harsh317/Whatsapp-automatic_Zoom-bot-Twilio-pyatogui.git
